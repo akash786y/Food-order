@@ -1,9 +1,4 @@
 
-<img width="890" alt="image" src="https://github.com/akash786y/Food-order/assets/96948613/38d2a82f-20e4-421e-9f2e-6720c6e96e7f">
-
-
-<img width="597" alt="image" src="https://github.com/akash786y/Food-order/assets/96948613/1a7d8eac-46ab-4257-b62f-e3edb294c1f8">
-
 ## Available Scripts
 
 In the project directory, you can run:
