@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+<img width="890" alt="image" src="https://github.com/akash786y/Food-order/assets/96948613/cc96e89b-c071-4fc4-9a82-9cf308123107"># Getting Started with Create React App
+<img width="890" alt="image" src="https://github.com/akash786y/Food-order/assets/96948613/57246672-2901-4ec2-ad98-36b155df5d4a">
+
+![Uploading image.png…]()
+
 
 
 ## Available Scripts
